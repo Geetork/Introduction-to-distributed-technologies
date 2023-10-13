@@ -6,3 +6,6 @@
 ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/c13096e0-54d1-4303-b902-41e4cf3bcc6c)
 ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/c201af78-d8f8-48f0-a723-94f0b7d54c25)
 ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/67659dce-b561-48e5-908e-1919b72179dc)
+![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/09a53feb-fc44-4d9f-a9d0-2c869763a096)
+
+![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/c07b5892-ad17-4a5e-97ae-fe1225786ea1)
