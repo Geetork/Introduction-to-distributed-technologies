@@ -38,4 +38,5 @@ Date of finished: 13.10.2023 <br/>
 
 ## Вывод
 Таким образом, были изучены инструменыт minikube, docker, был развернут под, получен yaml файл для его развертывания.
-![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/298b1993-a20a-42a1-a052-1ae83fa71177)
+![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/6aef3683-f058-45a8-9a69-146f2c3928fc)
+
