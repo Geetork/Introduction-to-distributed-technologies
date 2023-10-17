@@ -4,11 +4,11 @@ Course: [Network programming](https://github.com/itmo-ict-faculty/network-progra
 Year: 2023/2024 <br/>
 Group: K4110c <br/>
 Author: Li Galina <br/>
-Lab: Lab1 <br/>
-Date of create: 13.10.2023 <br/>
-Date of finished: 13.10.2023 <br/>
+Lab: Lab2 <br/>
+Date of create: 17.10.2023 <br/>
+Date of finished: 20.10.2023 <br/>
 
-# Лабораторная работа №1 "Установка Docket, Minikube, первый Manifest"
+# Лабораторная работа №2 "Установка Docket, Minikube, первый Manifest"
 
 ## Описание
    Это первая лабораторная работа в которой вы сможете протестировать Docker, установить Minikube и развернуть свой первый "под".
