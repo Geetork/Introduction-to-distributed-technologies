@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: hello
+  template:
+    metadata:
+      labels:
+        app: hello
+    spec:
+      containers:        
+        - name: lab2
+          env:
+          - name: REACT_APP_USERNAME
+            value: galina
+          - name: REACT_APP_COMPANY_NAME
+            value: geetork
+          image: ifilyaninitmo/itdt-contained-frontend:master
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 31000
