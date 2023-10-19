@@ -40,4 +40,5 @@ Date of finished: 20.10.2023 <br/>
 
 ## Вывод
 
+![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/427cef4e-032a-4447-987b-a2a94e7781e1)
 
