@@ -38,7 +38,9 @@ Date of finished: 20.10.2023 <br/>
    ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/2e002c69-625d-42ab-a90d-3be6f489304c)
 
    4. Запущено веб-приложение.
-   
+
+   ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/772f1204-857c-46a5-9c91-48355640dda6)
+
    ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/3f8bc7f9-6093-499d-9eb4-0d28904acfb4)
    ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/b2b732d7-91ee-4ed1-a803-93079d67865d)
    ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/7db7c1e9-81d2-49a0-9dac-0113815554b0)
