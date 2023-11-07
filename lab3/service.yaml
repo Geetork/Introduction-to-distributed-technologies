@@ -1,0 +1,30 @@
+apiVersion: v1
+kind: Service
+metadata:
+  creationTimestamp: "2023-10-13T07:52:25Z"
+  labels:
+    run: vault-test
+  name: vault-test
+  namespace: default
+  resourceVersion: "2969"
+  uid: eddbe1b9-fc51-4ace-84d6-588bff8ed42c
+spec:
+  clusterIP: 10.107.207.0
+  clusterIPs:
+  - 10.107.207.0
+  externalTrafficPolicy: Cluster
+  internalTrafficPolicy: Cluster
+  ipFamilies:
+  - IPv4
+  ipFamilyPolicy: SingleStack
+  ports:
+  - nodePort: 30350
+    port: 8200
+    protocol: TCP
+    targetPort: 8200
+  selector:
+    run: vault-test
+  sessionAffinity: None
+  type: NodePort
+status:
+  loadBalancer: {}
