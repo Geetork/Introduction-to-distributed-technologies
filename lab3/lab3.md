@@ -21,7 +21,11 @@ Date of finished: x.x.2023 <br/>
    
    1. 
 
+![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/b67f061e-a4f5-4db3-9616-5e202b8eeb1b)
+![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/61c96873-44ed-439d-b110-d072cfba2756)
 
+
+![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/6f681d7f-bd14-417c-a10b-39a9c4b0136a)
 
 
 
