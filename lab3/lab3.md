@@ -40,9 +40,10 @@ Date of finished: x.x.2023 <br/>
 ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/6da0291a-5f48-4516-8bcf-a2593e662361)
 
    5. Создан секрет, который затес добавлен в ingress
+      
 ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/c2c2bb75-1af2-4d3b-bef6-001f1368a763)
 
-   6. С помощью fqdn имени открыто веб-приложение
+   7. С помощью fqdn имени открыто веб-приложение
 
 ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/07893c5a-9196-4c67-b6d9-c196244731ca)
 
@@ -53,5 +54,7 @@ Date of finished: x.x.2023 <br/>
 ## Вывод
 
 Таким образом, ознакомились с объектоми Ingress, configMap, secret.
+
+![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/e5e6bdb3-11e3-4ab3-90b3-2f5d000bbd40)
 
 
