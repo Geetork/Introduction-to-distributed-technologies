@@ -25,6 +25,9 @@ Date of finished: x.x.2023 <br/>
 
 ![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/b22bd976-876e-4bd1-ab52-ed2ff1fa6824)
 
+![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/6309b53c-72aa-440f-be19-96c0674f442d)
+
+
 ## Вывод
 
 Таким образом, ознакомились с типами "контроллеров" развертывания контейнеров, ознакомились с сетевыми сервисами и развернули свое веб приложение.
