@@ -50,5 +50,6 @@ Date of finished: x.x.2023 <br/>
 
 Таким образом, ознакомились с CNI Calico и функцией IPAM Plugin, изучили особенности работы CNI и CoreDNS.
 
+![image](https://github.com/Geetork/Introduction-to-distributed-technologies/assets/58363643/b15f22d2-4f26-4ba0-9187-1b63a47c4813)
 
 
